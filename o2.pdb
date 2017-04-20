@@ -1,10 +1,7 @@
-REMARK   Materials Studio PDB file
-REMARK   Created:  Wed Mar 01 08:05:06 中国标准时间 2017
-ATOM      1  O   MOL     1       0.520   0.633   0.000  1.00  0.00           O1-  
-ATOM      2  O   MOL     1       1.740   0.452   0.818  1.00  0.00           O1-  
-ATOM      3  O   MOL     2       0.520   0.633   0.000  1.00  0.00           O1-  
-ATOM      4  O   MOL     2       1.740   0.452   0.818  1.00  0.00           O1-  
-TER       5 
-CONECT    3    4    4
-CONECT    4    3    3
+TITLE       Required
+REMARK   1 File created by GaussView 5.0.9
+HETATM    1  O           0      -0.874   1.505   0.000                       O
+HETATM    2  O           0      -2.035   1.505   0.000                       O
 END
+CONECT    1    2
+CONECT    2    1
